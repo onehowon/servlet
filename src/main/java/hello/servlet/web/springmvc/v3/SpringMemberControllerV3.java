@@ -39,5 +39,6 @@ public class SpringMemberControllerV3 {
 
         model.addAttribute("members", members);
         return "members";
+//      fin
     }
 }
